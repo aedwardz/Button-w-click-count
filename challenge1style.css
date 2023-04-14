@@ -1,0 +1,15 @@
+button:hover{
+    border: none;
+    color: white;
+    padding: 64px 128px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 17pt;
+    margin: 20px 2px;
+    cursor:pointer;
+    transition-duration: 2s;
+
+
+
+
+}
